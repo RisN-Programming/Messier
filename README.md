@@ -1,2 +1,2 @@
 # Messier
-Inventory management program for Seneca College
+Inventory management program
